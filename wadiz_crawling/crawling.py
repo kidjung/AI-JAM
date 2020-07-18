@@ -6,7 +6,7 @@ import time
 
 fname = "test.csv"
 f = open(fname, 'w')
-f.write('currency, name, main_category, sub_category, duration, goal_won, start_Q, end_Q, status\n')
+f.write('currency,name,main_category,sub_category,duration,goal_won,start_Q,end_Q,status\n')
 
 options = webdriver.ChromeOptions()
 options.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 "

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="924568b1-0d45-47e9-8ea0-f20035439c28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crawling.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594888158805</updated>
       <workItem from="1594888160109" duration="3599000" />
-      <workItem from="1595047156823" duration="11169000" />
+      <workItem from="1595047156823" duration="11858000" />
     </task>
     <servers />
   </component>
@@ -94,22 +92,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="353" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1594888196514" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1595058163396">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1595064720032">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595058163396" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1595058163395">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595064720032" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1595064720032">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595058163395" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1595058163395">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595064720032" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1595064720032">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595058163395" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1595058163396">
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595064720032" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1595064720032">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595058163396" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595064720032" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wadiz_crawling$crawling.coverage" NAME="crawling Coverage Results" MODIFIED="1595058163373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
